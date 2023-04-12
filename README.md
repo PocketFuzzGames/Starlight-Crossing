@@ -1,5 +1,7 @@
 # Starlight-Crossing
 **Missing Features:**
+* Movement
+  - Tap to move forward, to alleviate some need for full swipes. You will still be able to swipe also.
 * Deaths
   - Landing in the water
   - Going offscreen while riding a log.
