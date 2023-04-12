@@ -57,6 +57,7 @@ Player becomes unable to move all the way to the left or right, and able to move
 **Below is our privacy policy for "Starlight Crossing":**
 
 Privacy Policy
+
 Pocket Fuzz Games built the Starlight Crossing app as a Free app. This SERVICE is provided by Pocket Fuzz Games at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
