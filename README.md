@@ -2,7 +2,7 @@
 Stores data related to our Android game "Starlight Crossing".
 
 
-Here is our privacy policy for "Starlight Crossing":
+**Below is our privacy policy for "Starlight Crossing":**
 
 Privacy Policy
 Pocket Fuzz Games built the Starlight Crossing app as a Free app. This SERVICE is provided by Pocket Fuzz Games at no cost and is intended for use as is.
