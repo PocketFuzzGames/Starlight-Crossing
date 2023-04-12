@@ -1,6 +1,54 @@
 # Starlight-Crossing
-Stores data related to our Android game "Starlight Crossing".
+**Missing Features:**
+* Deaths
+  - Landing in the water
+  - Going offscreen while riding a log.
+* Firefly Collection
+  - Fireflies are present but currenty serve no purposes.
+* Effects
+  - Screen Shake.
+  - Fade in/out from the menu to the game
+* Art
+  - Main menu needs some polishing and does not currently represent its final state.
+  - Results box on game over that will show the players score, if they got the highscore, along with any other bonuses and collectables gotten during the run.
+  - Highscore on the menu screen.
+* Settings
+  - Audio settings for turning off sound effects and music.
+* Sounds and Audio Effects 
+  - There are a few things in the game that are currently missing associated sound effects.
+* Tactical Feedback
+  - The game will trigger a devices vibration motor for effects in the game such as death when colliding with vehicles.
+  
+**Planned Features and Concepts:**
+(These features  may not come out until after the games public release, if ever)
+* Unique Obstacles and Events
+  - The game is pretty standard at the moment and all of its challenges are what I would call "default" for this style of game. I have already drawn and concepted a handful of unique and challenging obstacles that will add variety to the gameplay making the whole experience overall more unqiue and different. I have thought about waiting to release the game until after these are added, however in very the small amount of testing already done the challenge of the game alone was enough to be fun.
+* Alternate Game Modes
+  - Other game modes such as a time trial mode have been thought of and may eventually happen.
+* Power-Ups
+  - The main problem with this is most powerups I can think of wouldn't really add much. A speed power-up sounds cool, but the jump animation looks broken when sped up. A shield power-up is another idea I've had, but implementation would be the problem, how does it look? What happens when you are standing in front of a train with a shield?
+* In-Game Shop
+  - Unknown what the purpose would be, would probably happen if powerups and/or skins ever get added.
+* Skins
+  - As fun as it would be to unlock custom skins, the main issue is the size of the player sprite. There is simply not enough detail with the games limited color palette for much else, but it is something I would really want to add. This is likely to be included in an update.
+* Color Theme Changes
+  - This is unlikely to ever happen, however I plan on playing with the idea at some point.
+* Art-style Shift
+  - This would only happen if the game was to "boom" in popularity, but I would like to change the art style to be more 3D including the player frog. I imagine a style similar to dead cells where it 3D rendered as pixel art, and it would use shaders for the white outlines.
 
+**Known Bugs and Issues:**
+* Game Size
+  - Sprites and sound files stored in the game are not currently optimized for storage, causing the game to have a large download size than expected.
+* Depth Rendering
+  - The method used for depth in the game is called "Z-Tilting", however correctly combining it with some effects used in the game will take some optimization.
+* Movement Issues
+  - Swiping to move fails depending on the timing, requiring another swipe.
+Player becomes unable to move all the way to the left or right, and able to move past the opposite side of the screen.
+* Sound Effects and Music
+  - Volume for all music and sound effects has yet to be properly configured.
+  - If the player exits the app and re-enters without having closed the app music and sound effects may glitch or sound distorted for a brief moment.
+* GUI Issues
+  - When the game is ran at or near its lowest possible resolution of 135x240, plain text such as the score counter and firefly counter disappear.
 
 **Below is our privacy policy for "Starlight Crossing":**
 
