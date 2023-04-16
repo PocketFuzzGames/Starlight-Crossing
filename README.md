@@ -49,7 +49,7 @@
   - Player becomes unable to move all the way to the left or right, and able to move past the opposite side of the screen.
 * Sound Effects and Music
   - Volume for all music and sound effects has yet to be properly configured.
-  - If the player exits the app and re-enters without having closed the app music and sound effects may glitch or sound distorted for a brief moment.
+  - If the player exits the app and re-enters without having closed the app, music and sound effects may glitch or sound distorted for a brief moment.
 * GUI Issues
   - When the game is ran at or near its lowest possible resolution of 135x240, plain text such as the score counter and firefly counter disappear.
 * Collision
