@@ -21,7 +21,8 @@
   - There are a few things in the game that are currently missing associated sound effects.
 * Tactical Feedback
   - The game will trigger a devices vibration motor for effects in the game such as death when colliding with vehicles.
-  
+* Splash Screen
+  - On game open, the default "Gamemaker Studio 2" splash screen still appears. This will be changed.
 **Planned Features and Concepts:**
 (These features  may not come out until after the games public release, if ever)
 * Unique Obstacles and Events
