@@ -46,7 +46,7 @@
   - The method used for depth in the game is called "Z-Tilting", however correctly combining it with some effects used in the game will take some optimization.
 * Movement Issues
   - Swiping to move fails depending on the timing, requiring another swipe.
-Player becomes unable to move all the way to the left or right, and able to move past the opposite side of the screen.
+  - Player becomes unable to move all the way to the left or right, and able to move past the opposite side of the screen.
 * Sound Effects and Music
   - Volume for all music and sound effects has yet to be properly configured.
   - If the player exits the app and re-enters without having closed the app music and sound effects may glitch or sound distorted for a brief moment.
