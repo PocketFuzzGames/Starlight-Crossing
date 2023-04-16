@@ -23,10 +23,11 @@
   - The game will trigger a devices vibration motor for effects in the game such as death when colliding with vehicles.
 * Splash Screen
   - On game open, the default "Gamemaker Studio 2" splash screen still appears. This will be changed.
+
 **Planned Features and Concepts:**
 (These features  may not come out until after the games public release, if ever)
 * Unique Obstacles and Events
-  - The game is pretty standard at the moment and all of its challenges are what I would call "default" for this style of game. I have already drawn and concepted a handful of unique and challenging obstacles that will add variety to the gameplay making the whole experience overall more unqiue and different. I have thought about waiting to release the game until after these are added, however in very the small amount of testing already done the challenge of the game alone was enough to be fun.
+  - The game is pretty standard at the moment and all of its challenges are what I would call "default" for this style of game. I have already drawn and concepted a handful of unique and challenging obstacles that will add variety to the gameplay making the whole experience overall more unique and different. I have thought about waiting to release the game until after these are added, however in very the small amount of testing already done the challenge of the game alone was enough to be fun.
 * Alternate Game Modes
   - Other game modes such as a time trial mode have been thought of and may eventually happen.
 * Power-Ups
