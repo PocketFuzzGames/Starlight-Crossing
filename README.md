@@ -1,5 +1,4 @@
-# Starlight-Crossing 
-# Version 0.90
+# Starlight-Crossing v0.90
 **Missing Features:**
 * Movement
   - Tap to move forward, to alleviate some need for full swipes. You will still be able to swipe also.
