@@ -55,6 +55,8 @@
   - When the game is ran at or near its lowest possible resolution of 135x240, plain text such as the score counter and firefly counter disappear.
 * Collision
  - The player can be hit by a train or vehicle before a jump is completed when moving away due to a collision issue.
+* Level Generation
+ - Trees can sometimes completely block the bath, however this is very unlikely.
  
 **Below is our privacy policy for "Starlight Crossing":**
 
