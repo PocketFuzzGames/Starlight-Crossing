@@ -54,10 +54,13 @@
 * GUI Issues
   - When the game is ran at or near its lowest possible resolution of 135x240, plain text such as the score counter and firefly counter disappear.
 * Collision
- - The player can be hit by a train or vehicle before a jump is completed when moving away due to a collision issue.
+  - The player can be hit by a train or vehicle before a jump is completed when moving away due to a collision issue.
 * Level Generation
- - Trees can sometimes completely block the bath, however this is very unlikely.
- 
+  - Trees can sometimes completely block the bath, however this is very unlikely.
+* Visual Effects
+  - Particles from rivers can sometimes linger after a level reset.
+  - After being generated rivers take time to become populated with particles rather than having some generated ahead of time.
+
 **Below is our privacy policy for "Starlight Crossing":**
 
 Privacy Policy
