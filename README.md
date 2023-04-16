@@ -14,6 +14,7 @@
   - Main menu needs some polishing and does not currently represent its final state.
   - Results box on game over that will show the players score, if they got the highscore, along with any other bonuses and collectables gotten during the run.
   - Highscore on the menu screen.
+  - No transition animation or fade from menu to in-game its currently instantaneous.
 * Settings
   - Audio settings for turning off sound effects and music.
 * Sounds and Audio Effects 
